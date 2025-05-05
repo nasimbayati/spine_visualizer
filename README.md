@@ -19,6 +19,10 @@ This Python project demonstrates custom axis spine manipulation using a 2×2 mat
 python spine_visualizer.py
 ```
 
+## 📷 Output Preview
+![Spine Showcase Output](spine_showcase.png)
+
+
 ## 📦 Requirements
 - Python 3.x
 - `numpy`
